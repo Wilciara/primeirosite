@@ -1,10 +1,94 @@
-
-.caixa {
-
-    margin: 0 auto;
-    position: relative;
-    width: 940px;
-    background-color: rgb(255, 42, 4);
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: rgb(5, 5, 99);
+    
+    
+    
+}
+header{
+    display: flex;
+    padding: 30px;
+    box-shadow: 1px 1px 10px 1px #fff;
+    
 }
 
-.header { background-color: orangered;}
+header ul li {
+    padding: 10px;
+    justify-content: flex-end;
+    font-size: x-large;
+}
+header ul li a:hover {
+    color: orangered;
+    text-decoration: underline;
+    
+}
+
+
+a {
+    text-decoration: none;
+}
+body {
+    
+    background-position: center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(248, 156, 43);
+    
+}
+ul {display: flex;
+    list-style: none;
+    font-style: italic;
+    justify-content: space-around;
+    align-items: center;
+    
+  
+}
+.container {
+    text-align: center;
+    cursor: none;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.container .name h1 {
+    font-size: 50px;
+    cursor: none;
+}
+.container .name h5 {
+    font-size: 30px;
+    cursor: none;
+    margin-top: 10px;
+}
+#whatsapp {
+    font-size: 30px;
+    animation: blink 1s steps(5, start) infinite;
+}
+@keyframes blink {
+    to {
+        visibility: hidden;
+    }
+}
+#about p {
+    max-width: 600px;
+    margin: 0 auto;
+    cursor: none;
+    margin-top: 10px;
+    justify-content: right;
+}
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.flex div {
+    border: 1px solid white;
+    margin: 15px;
+}
+.flex img {
+    max-width: 250px;
+}
+p {
+    width: 250px;
+    cursor: pointer;
+}
