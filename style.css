@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    color: rgb(5, 5, 99);
+    color: rgb(40, 24, 83);
     
     
     
@@ -62,12 +62,21 @@ ul {display: flex;
 }
 #whatsapp {
     font-size: 30px;
-    animation: blink 1s steps(5, start) infinite;
+    animation: blink 2s steps(5, start) infinite;
+  
 }
 @keyframes blink {
     to {
         visibility: hidden;
     }
+}
+#animation {
+    transition: 300ms;
+}
+
+.rotate {
+    transform: rotate(180deg);
+    transition: 300ms;
 }
 #about p {
     max-width: 600px;
@@ -91,4 +100,14 @@ ul {display: flex;
 p {
     width: 250px;
     cursor: pointer;
+}
+#quem p {
+    max-width: 600px;
+    margin: 0 auto;
+    cursor: none;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: baseline;
+    font-size: x-large;
+    
 }
