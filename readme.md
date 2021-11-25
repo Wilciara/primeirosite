@@ -5,3 +5,7 @@ Possui:
 PAgian inicial com display e botoes qeu direcionam para redes sociais e contatos reais.
 Pagina de produtos.
 Quem somos. Breve explicação da  empresa e  Alerta  antifraude.
+
+languages:  HTml e CSS
+
+Rodape  com endereço e  CNPJ reais

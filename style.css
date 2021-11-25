@@ -36,12 +36,14 @@ body {
     background-size: cover;
     background-color: rgb(248, 156, 43);
     
+    
 }
 ul {display: flex;
     list-style: none;
     font-style: italic;
     justify-content: space-around;
     align-items: center;
+    padding: 30px;
     
   
 }
@@ -93,6 +95,7 @@ ul {display: flex;
 .flex div {
     border: 1px solid white;
     margin: 15px;
+    
 }
 .flex img {
     max-width: 250px;
@@ -110,4 +113,8 @@ p {
     align-items: baseline;
     font-size: x-large;
     
+}
+.footer {
+    padding: 30px;
+    box-shadow: 1px 1px 10px 1px #fff;
 }
