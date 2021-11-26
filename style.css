@@ -13,11 +13,17 @@ header{
     box-shadow: 1px 1px 10px 1px #fff; flex: auto;
     
 }
+.caixa {
+    display: flex;
+}
 
 header ul li {
     padding: 10px;
     justify-content: flex-end;
     font-size: large;
+    text-align: center;
+    
+
 }
 header ul li a:hover {
     color: orangered;
@@ -43,7 +49,9 @@ ul {display: flex;
     font-style: italic;
     justify-content: space-around;
     align-items: center;
-    padding: 30px;
+    padding: 30px;   
+    flex-wrap: wrap;
+    
     
   
 }
@@ -103,6 +111,7 @@ ul {display: flex;
 p {
     width: 250px;
     cursor: pointer;
+    text-align: justify;
 }
 #quem p {
     max-width: 500px;
@@ -152,4 +161,15 @@ p {
     font-size: x-large;
     
 
+}
+@media only screen and (max-width:480px){
+    
+header ul li {
+    padding: 10px 3px;
+    justify-content: flex-end;
+    font-size: large;
+    text-align: center;
+    
+
+}
 }
