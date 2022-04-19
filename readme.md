@@ -4,9 +4,9 @@
 
   
  *** 
- # Site:  
+ # 🎯 Site:  
   
-  Para acessar o site clique: [Nipoflex Juiz de Fora] (https://primeirosite-one.vercel.app/index.html)  
+  Para acessar o site clique: [Nipoflex Juiz de Fora](https://primeirosite-one.vercel.app/index.html)  
   
   
 ***
@@ -27,7 +27,12 @@ Imagens - fonte Nipoflex
 Inspiração Nipoflex
 
 Link de acesso ao projeto:  https://wilciara.github.io/primeirosite/index.html
-
+  
+  
+  
+ https://www.loom.com/share/ee99954e8ccb4bebb15efeef7bf6b6d8
+ 
+  
 Agradecimentos a:
 Kai Pimenta, as aulas foram o norte desse Projeto. Sem Kai nada sairia, mesmo que não tenha nem conhecimento disso. 
 Gabriel Rodz, super paciente qeu me ajudou com meu peqeuno surto de ter  deletado tudo. E ainda  teve a  paciencia de verificar e  me ensinar sobre responsividade e outros pequenos grandes detalhes para que começa do zero como eu. E isso quase 1 hora da manha. 
