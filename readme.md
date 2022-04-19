@@ -1,4 +1,16 @@
-Crédito Pessoal para investir na sua vida, organizar suas finanças, realizar seus projetos; com as menores taxas e maiores prazos do mercado. Mesmo negativado.
+
+
+![nipo_default_logo](https://user-images.githubusercontent.com/94201226/163902272-08e33b17-fff4-4df4-be00-1b8161a4debc.png)  
+
+  
+ *** 
+ # Site:  
+  
+  Para acessar o site clique: [Nipoflex Juiz de Fora] (https://primeirosite-one.vercel.app/index.html)  
+  
+  
+***
+### Crédito Pessoal para investir na sua vida, organizar suas finanças, realizar seus projetos; com as menores taxas e maiores prazos do mercado. Mesmo negativado.
 
 -Possui: 
 
@@ -44,7 +56,12 @@ Links para redes socias reias!
 
 ![image](https://user-images.githubusercontent.com/94201226/146675316-45b3e171-4d41-4fa0-9378-8b465966f6e7.png)
 
-Orientações do Projeto proposto pela Gama:
+  
+  
+***  
+# Orientações do Projeto proposto pela Gama:  
+![logo-gama-academy](https://user-images.githubusercontent.com/94201226/163902432-4f39a71e-0a29-41dc-94f9-c1a093eb52c2.png)
+
 
 
 HACKER - DESAFIO INDIVIDUAL
