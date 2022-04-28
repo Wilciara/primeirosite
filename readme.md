@@ -1,3 +1,4 @@
+<p align="center"><img src="https://komarev.com/ghpvc/?username=wilciara" alt="Wilciara" /></p>  
 
 
 ![nipo_default_logo](https://user-images.githubusercontent.com/94201226/163902272-08e33b17-fff4-4df4-be00-1b8161a4debc.png)  
